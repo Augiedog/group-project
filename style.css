@@ -26,6 +26,19 @@ main h2 {
 
 /* Add Student Styles Below */
 
+.jane-style {
+    color: hotpink;
+    background-color: black;
+    padding: 3px;
+}
+.code-ninja-style {
+    color: blue;
+    background-color: lightblue;
+    padding: 3px;
+}
+.codys-styles {
+    background:rgb(92, 149, 235);
+}
 .augiedog {
     color: blue;
     background-color: brown;
@@ -36,13 +49,6 @@ main h2 {
     background-color: black;
     padding: 3px;
 }
-
-.code-ninja-style {
-    color: blue;
-    background-color: lightblue;
-    padding: 3px;
-}
-
 .nara-styles {
     color: chartreuse;
     background:rgb(92, 149, 235);
