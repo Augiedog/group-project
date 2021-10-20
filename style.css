@@ -25,7 +25,13 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
+
+.augiedog {
+    color: blue;
+    background-color: brown;
+    padding: 50px;
+}
+.elmer-style {
     color: hotpink;
     background-color: black;
     padding: 3px;
@@ -37,6 +43,7 @@ main h2 {
     padding: 3px;
 }
 
-.codys-styles {
+.nara-styles {
+    color: chartreuse;
     background:rgb(92, 149, 235);
 }
