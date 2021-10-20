@@ -29,7 +29,7 @@ main h2 {
 .augiedog {
     color: blue;
     background-color: brown;
-    padding: 50px;
+    padding: 20px;
 }
 .elmer-style {
     color: hotpink;
@@ -46,4 +46,5 @@ main h2 {
 .nara-styles {
     color: chartreuse;
     background:rgb(92, 149, 235);
+    padding: 3px;
 }
