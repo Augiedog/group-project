@@ -50,7 +50,7 @@ main h2 {
     padding: 3px;
 }
 .nara-styles {
-    color: chartreuse;
-    background:rgb(92, 149, 235);
+    color: rbg(180, 143, 248);
+    background:rgb(248, 151, 235);
     padding: 3px;
 }
